@@ -1,2 +1,2 @@
 # JaneFullstackWebDev
-My first repository for Fullstack Academy Web Development boot camp
+My first Web Development repository Fullstack # To improve is to change.
